@@ -39,6 +39,8 @@ This project demonstrates the compression of multispectral satellite imagery usi
 ```
 SOM_GNR602_Project.ipynb     # Main Jupyter Notebook
 README.md                    # Project description and instructions
+SOM_GUI.png                  # GUI Structure
+Browser_Images               # Contains independent spectral bands as well as stacked multispectral image
 ```
 
 ---
